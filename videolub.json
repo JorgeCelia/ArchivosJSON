@@ -1,0 +1,32 @@
+{
+    "nombre": "Videoclub DAW",
+    "direccion": "Calle de Celia, 1",
+    "localidad": "Almería",
+    "apertura": 2004,
+    "catalogo": [
+        {
+            "nombre": "Super 8",
+            "director": "Director1",
+            "valoracion": 4,
+            "publico": "Adultos"
+        },
+        {
+            "nombre": "Los Pitufos",
+            "director": "Director1",
+            "valoracion": 3,
+            "publico": "Todos los públicos"
+        },
+        {
+            "nombre": "El Rey León",
+            "director": "Director3",
+            "valoracion": 4,
+            "publico": "Infantil"
+        },
+        {
+            "nombre": "La Cenicienta",
+            "director": "Director4",
+            "valoracion": null,
+            "publico": "Infantil"
+        }
+    ]
+}
